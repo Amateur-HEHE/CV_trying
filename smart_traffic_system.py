@@ -1,6 +1,6 @@
 # ============================================================
 # Real-Time AI Smart Traffic Management System
-# Author: [Your Name]
+# Author: [Ayush Ojha]
 # Class: XII AI Project
 # Tech Stack: Streamlit, OpenCV, NumPy
 # ============================================================
